@@ -8,6 +8,8 @@ Stap 1:
 Firefox is momenteel de enige browser voor Windows 10 welke eigen Proxy settings gebruikt en niet de globale Windows 10 proxy instelt. 
 Voeg deze URL in als URL voor automatische proxy configuratie:
 
+https://raw.githubusercontent.com/wikewi/test/master/vu.pac
+
 Step 2:
 Sinds Windows 10 (1903) wellicht ook eerder is SSH ondersteuning ingebouwd. Start daarom cmd.exe en typ het volgende commando:
 
